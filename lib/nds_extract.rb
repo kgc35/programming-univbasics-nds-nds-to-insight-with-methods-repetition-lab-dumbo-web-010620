@@ -29,13 +29,13 @@ def list_of_directors(source)
   # Write this implementation
   num = source.length;
   list_of_directors = [];
-  
+
   num.times do |index|
     list_of_directors.push(source[index][:name])
   end
 
   list_of_directors
-    
+
 end
 
 def total_gross(source)
