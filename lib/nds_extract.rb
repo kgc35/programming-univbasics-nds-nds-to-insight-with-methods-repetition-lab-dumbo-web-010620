@@ -23,13 +23,12 @@ def gross_for_director(d)
   end
 
   total
-  #print total
 end
 
 def list_of_directors(source)
   # Write this implementation
-  source.keys
-#  list = directors_totals(source).keys
+  list = source.keys
+  list
   #list
 end
 
