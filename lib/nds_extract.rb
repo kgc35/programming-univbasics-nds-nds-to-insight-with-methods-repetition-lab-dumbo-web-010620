@@ -53,7 +53,7 @@ def total_gross(source)
   num_of_directors = directors_list.length;
   total = 0;
   total_hash = directors_totals(source);
-  
+
   num_of_directors.times do |index|
     total += total_hash[directors_list[index]]
   end
