@@ -28,7 +28,7 @@ end
 
 def list_of_directors(source)
   # Write this implementation
-  print source
+  source.keys
 #  list = directors_totals(source).keys
   #list
 end
