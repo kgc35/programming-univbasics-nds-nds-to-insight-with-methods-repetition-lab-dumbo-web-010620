@@ -23,6 +23,7 @@ def gross_for_director(d)
   end
 
   total
+  print total
 end
 
 def list_of_directors(source)
@@ -38,7 +39,7 @@ def list_of_directors(source)
 
 end
 
-def total_gross(source)
+#def total_gross(source)
   # Write this implementation
   #
   # Should use methods:
@@ -48,4 +49,11 @@ def total_gross(source)
   # Visit each key (i.e. director name), look up the value in the hash
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
-end
+
+  #directors_name = list_of_directors(source);
+  #num_of_directors = directors_name.length;
+
+  #num_of_directors.times do |index|
+    
+    
+#end
