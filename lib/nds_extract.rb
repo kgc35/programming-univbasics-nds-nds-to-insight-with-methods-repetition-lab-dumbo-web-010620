@@ -23,7 +23,7 @@ def gross_for_director(d)
   end
 
   total
-  print total
+  #print total
 end
 
 def list_of_directors(source)
