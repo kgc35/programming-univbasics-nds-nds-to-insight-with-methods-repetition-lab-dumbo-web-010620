@@ -54,6 +54,6 @@ end
   #num_of_directors = directors_name.length;
 
   #num_of_directors.times do |index|
-    
-    
+
+
 #end
