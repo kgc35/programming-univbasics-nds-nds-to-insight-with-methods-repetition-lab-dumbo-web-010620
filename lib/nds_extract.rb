@@ -10,7 +10,7 @@ def directors_totals(source)
     director_index += 1
   end
   result
-  print result
+  #print result
 end
 
 def gross_for_director(d)
@@ -23,6 +23,7 @@ def gross_for_director(d)
   end
 
   total
+  print total
 end
 
 def list_of_directors(source)
